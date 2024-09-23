@@ -9,6 +9,6 @@ Backend-> python manage.py runserver
 
 Start another terminal 
 
-Frontned -> npm start
+Frontend -> npm start
 
 The web app should be available at http://localhost:3000.
